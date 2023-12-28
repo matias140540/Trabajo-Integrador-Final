@@ -1,0 +1,136 @@
+.NavigationBarTop {
+    background-color: #001446;
+    overflow: hidden;
+  }
+  
+  
+.NavigationBarTop a {
+    float: left;
+    color: #EAF1F7;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+    text-decoration: none;
+  }
+  
+  
+.NavigationBarTop a:hover {
+    background-color: whitesmoke;
+    color: black;
+  }
+  
+
+.NavigationBarTop a.active {
+    background-color: #01357E;
+    color: white;
+  }
+
+  
+.Titulo1{
+  position:absolute;
+  left: 20cm;
+  top: 5cm;
+  font-family: 'Poppins', sans-serif;
+  color: whitesmoke;
+  font-size: 60px;
+    
+  }
+
+
+.background1{
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+body{
+  background-image: url(https://i.imgur.com/1EQT8zM.jpg);
+}
+
+footer{
+  background-color:#001446;
+  
+  }
+
+
+#SobreMi{
+  font-family: 'Abril Fatface', serif;
+  font-size: 50px;
+  text-align: center;
+  color: #EAF1F7;
+  }
+
+#UserIcon{
+  width: 5cm;
+  height: 5cm;
+  
+  }
+
+.text{
+  font-family: 'Abril Fatface', serif;
+  font-size: 20px;
+  text-align: justify;
+  color: #EAF1F7;
+  border: 2px solid #EAF1F7;
+  border-radius: 12px;
+  padding: 5px;
+  margin-left: 5cm;
+  margin-right: 5cm;
+  }
+
+#Servicio{
+  font-family: 'Abril Fatface', serif;
+  font-size: 50px;
+  text-align: center;
+  color: #EAF1F7;
+
+  }
+
+#Precios{
+    font-family: 'Abril Fatface', serif;
+    font-size: 50px;
+    text-align: center;
+    color: #EAF1F7;
+  
+  }
+
+#Galeria{
+    display: flex;
+    justify-content: center;
+    
+
+  }
+  
+.ImagenesGaleria{
+    width: 10cm;
+    height: 10cm;
+  }
+
+.Ubicacion{
+    position: relative;
+    left: 1cm;
+    color: #EAF1F7;
+    font-family:'Poppins', sans-serif;
+   }
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: fit-content;
+    color: aquamarine;
+    position: relative;
+    
+    }
+
+td, th{ 
+    border: 1px solid white;
+    text-align: center;
+    padding: 8px;
+
+}
+   
+   
+   
+.Formulario{
+    color: #EAF1F7;
+   }
